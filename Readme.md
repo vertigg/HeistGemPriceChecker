@@ -9,7 +9,7 @@ OCR solution for detecting and price checking heist gems in Path of Exile. Heavi
 
 # How to install
 
-Grab latest release [here](https://github.com/EpicVertigo/HeistGemPriceChecker/releases/), unzip and run
+Grab latest release [here](https://github.com/EpicVertigo/HeistGemPriceChecker/releases/), unzip and run `HeistGemChecker.exe`
 
 # How to use
 
