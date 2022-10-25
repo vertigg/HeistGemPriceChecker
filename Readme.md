@@ -15,6 +15,8 @@ Grab latest release [here](https://github.com/EpicVertigo/HeistGemPriceChecker/r
 
 Press `Shift + F3` while near heist curio boxes and press `Detect gems` button. If detection was unsuccessfull - play with threshold slider and repeat. Press `Price check` to get latest prices from poe.ninja API. You can close any active window by pressing `Escape` button. You can also close program by right-clicking heist coin icon in system tray.
 
+![App usage](data/example.png)
+
 # TODO
 
 - Alternative "lazy" way of detecting gems (without screenshot window and pressing buttons)
