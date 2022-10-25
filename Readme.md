@@ -18,4 +18,4 @@ Press `Shift + F3` and press "detect gems". If unsuccessfull - play with thresho
 # TODO
 
 - Alternative "lazy" way of detecting gems (without screenshot window and pressing buttons)
-- Persistant app settings
+- Persistent app settings
