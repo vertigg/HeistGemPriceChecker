@@ -1,0 +1,1386 @@
+Anomalous Ambush
+Anomalous Ancestral Cry
+Anomalous Ancestral Protector
+Anomalous Ancestral Warchief
+Anomalous Anger
+Anomalous Animate Guardian
+Anomalous Animate Weapon
+Anomalous Arc
+Anomalous Arcane Cloak
+Anomalous Arcanist Brand
+Anomalous Arctic Armour
+Anomalous Armageddon Brand
+Anomalous Artillery Ballista
+Anomalous Assassin's Mark
+Anomalous Ball Lightning
+Anomalous Bane
+Anomalous Barrage
+Anomalous Battlemage's Cry
+Anomalous Bear Trap
+Anomalous Berserk
+Anomalous Blade Blast
+Anomalous Blade Flurry
+Anomalous Blade Trap
+Anomalous Blade Vortex
+Anomalous Bladefall
+Anomalous Bladestorm
+Anomalous Blast Rain
+Anomalous Blazing Salvo
+Anomalous Blight
+Anomalous Blink Arrow
+Anomalous Blood and Sand
+Anomalous Blood Rage
+Anomalous Bodyswap
+Anomalous Bone Offering
+Anomalous Boneshatter
+Anomalous Brand Recall
+Anomalous Burning Arrow
+Anomalous Caustic Arrow
+Anomalous Chain Hook
+Anomalous Charged Dash
+Anomalous Clarity
+Anomalous Cleave
+Anomalous Cobra Lash
+Anomalous Cold Snap
+Anomalous Conductivity
+Anomalous Consecrated Path
+Anomalous Contagion
+Anomalous Conversion Trap
+Anomalous Convocation
+Anomalous Corrupting Fever
+Anomalous Crackling Lance
+Anomalous Creeping Frost
+Anomalous Cremation
+Anomalous Cyclone
+Anomalous Dark Pact
+Anomalous Dash
+Anomalous Decoy Totem
+Anomalous Defiance Banner
+Anomalous Desecrate
+Anomalous Despair
+Anomalous Destructive Link
+Anomalous Determination
+Anomalous Detonate Dead
+Anomalous Detonate Mines
+Anomalous Devouring Totem
+Anomalous Discharge
+Anomalous Discipline
+Anomalous Divine Ire
+Anomalous Dominating Blow
+Anomalous Double Strike
+Anomalous Dread Banner
+Anomalous Dual Strike
+Anomalous Earthquake
+Anomalous Earthshatter
+Anomalous Elemental Hit
+Anomalous Elemental Weakness
+Anomalous Enduring Cry
+Anomalous Energy Blade
+Anomalous Enfeeble
+Anomalous Ensnaring Arrow
+Anomalous Essence Drain
+Anomalous Ethereal Knives
+Anomalous Explosive Arrow
+Anomalous Explosive Concoction
+Anomalous Explosive Trap
+Anomalous Exsanguinate
+Anomalous Eye of Winter
+Anomalous Fire Trap
+Anomalous Fireball
+Anomalous Firestorm
+Anomalous Flame Dash
+Anomalous Flame Link
+Anomalous Flame Surge
+Anomalous Flame Wall
+Anomalous Flameblast
+Anomalous Flamethrower Trap
+Anomalous Flammability
+Anomalous Flesh and Stone
+Anomalous Flesh Offering
+Anomalous Flicker Strike
+Anomalous Forbidden Rite
+Anomalous Freezing Pulse
+Anomalous Frenzy
+Anomalous Frost Blades
+Anomalous Frost Bomb
+Anomalous Frost Shield
+Anomalous Frost Wall
+Anomalous Frostbite
+Anomalous Frostblink
+Anomalous Frostbolt
+Anomalous Galvanic Arrow
+Anomalous General's Cry
+Anomalous Glacial Cascade
+Anomalous Glacial Hammer
+Anomalous Grace
+Anomalous Ground Slam
+Anomalous Haste
+Anomalous Hatred
+Anomalous Heavy Strike
+Anomalous Herald of Agony
+Anomalous Herald of Ash
+Anomalous Herald of Ice
+Anomalous Herald of Purity
+Anomalous Herald of Thunder
+Anomalous Hexblast
+Anomalous Holy Flame Totem
+Anomalous Hydrosphere
+Anomalous Ice Crash
+Anomalous Ice Nova
+Anomalous Ice Shot
+Anomalous Ice Spear
+Anomalous Ice Trap
+Anomalous Icicle Mine
+Anomalous Immortal Call
+Anomalous Incinerate
+Anomalous Infernal Blow
+Anomalous Infernal Cry
+Anomalous Intimidating Cry
+Anomalous Intuitive Link
+Anomalous Kinetic Blast
+Anomalous Kinetic Bolt
+Anomalous Lacerate
+Anomalous Lancing Steel
+Anomalous Leap Slam
+Anomalous Lightning Arrow
+Anomalous Lightning Spire Trap
+Anomalous Lightning Strike
+Anomalous Lightning Tendrils
+Anomalous Lightning Trap
+Anomalous Lightning Warp
+Anomalous Malevolence
+Anomalous Manabond
+Anomalous Mirror Arrow
+Anomalous Molten Shell
+Anomalous Molten Strike
+Anomalous Orb of Storms
+Anomalous Penance Brand
+Anomalous Perforate
+Anomalous Pestilent Strike
+Anomalous Petrified Blood
+Anomalous Phase Run
+Anomalous Plague Bearer
+Anomalous Poacher's Mark
+Anomalous Poisonous Concoction
+Anomalous Portal
+Anomalous Power Siphon
+Anomalous Precision
+Anomalous Pride
+Anomalous Protective Link
+Anomalous Puncture
+Anomalous Punishment
+Anomalous Purifying Flame
+Anomalous Purity of Elements
+Anomalous Purity of Fire
+Anomalous Purity of Ice
+Anomalous Purity of Lightning
+Anomalous Pyroclast Mine
+Anomalous Rage Vortex
+Anomalous Rain of Arrows
+Anomalous Raise Spectre
+Anomalous Raise Zombie
+Anomalous Rallying Cry
+Anomalous Reap
+Anomalous Reave
+Anomalous Reckoning
+Anomalous Rejuvenation Totem
+Anomalous Righteous Fire
+Anomalous Riposte
+Anomalous Rolling Magma
+Anomalous Scorching Ray
+Anomalous Scourge Arrow
+Anomalous Searing Bond
+Anomalous Seismic Cry
+Anomalous Seismic Trap
+Anomalous Shattering Steel
+Anomalous Shield Charge
+Anomalous Shield Crush
+Anomalous Shock Nova
+Anomalous Shockwave Totem
+Anomalous Shrapnel Ballista
+Anomalous Siege Ballista
+Anomalous Sigil of Power
+Anomalous Siphoning Trap
+Anomalous Smite
+Anomalous Smoke Mine
+Anomalous Sniper's Mark
+Anomalous Soul Link
+Anomalous Soulrend
+Anomalous Spark
+Anomalous Spectral Helix
+Anomalous Spectral Shield Throw
+Anomalous Spectral Throw
+Anomalous Spirit Offering
+Anomalous Split Arrow
+Anomalous Splitting Steel
+Anomalous Static Strike
+Anomalous Steelskin
+Anomalous Storm Brand
+Anomalous Storm Burst
+Anomalous Storm Call
+Anomalous Storm Rain
+Anomalous Stormbind
+Anomalous Stormblast Mine
+Anomalous Summon Carrion Golem
+Anomalous Summon Chaos Golem
+Anomalous Summon Flame Golem
+Anomalous Summon Holy Relic
+Anomalous Summon Ice Golem
+Anomalous Summon Lightning Golem
+Anomalous Summon Raging Spirit
+Anomalous Summon Reaper
+Anomalous Summon Skeletons
+Anomalous Summon Skitterbots
+Anomalous Summon Stone Golem
+Anomalous Sunder
+Anomalous Sweep
+Anomalous Tectonic Slam
+Anomalous Tempest Shield
+Anomalous Temporal Chains
+Anomalous Temporal Rift
+Anomalous Tornado
+Anomalous Tornado Shot
+Anomalous Toxic Rain
+Anomalous Unearth
+Anomalous Vaal Ancestral Warchief
+Anomalous Vaal Arc
+Anomalous Vaal Blade Vortex
+Anomalous Vaal Blight
+Anomalous Vaal Breach
+Anomalous Vaal Burning Arrow
+Anomalous Vaal Clarity
+Anomalous Vaal Cold Snap
+Anomalous Vaal Cyclone
+Anomalous Vaal Detonate Dead
+Anomalous Vaal Discipline
+Anomalous Vaal Double Strike
+Anomalous Vaal Earthquake
+Anomalous Vaal Fireball
+Anomalous Vaal Flameblast
+Anomalous Vaal Glacial Hammer
+Anomalous Vaal Grace
+Anomalous Vaal Ground Slam
+Anomalous Vaal Haste
+Anomalous Vaal Ice Nova
+Anomalous Vaal Immortal Call
+Anomalous Vaal Impurity of Fire
+Anomalous Vaal Impurity of Ice
+Anomalous Vaal Impurity of Lightning
+Anomalous Vaal Lightning Strike
+Anomalous Vaal Lightning Trap
+Anomalous Vaal Lightning Warp
+Anomalous Vaal Molten Shell
+Anomalous Vaal Power Siphon
+Anomalous Vaal Rain of Arrows
+Anomalous Vaal Reave
+Anomalous Vaal Righteous Fire
+Anomalous Vaal Spark
+Anomalous Vaal Spectral Throw
+Anomalous Vaal Storm Call
+Anomalous Vaal Summon Skeletons
+Anomalous Vampiric Link
+Anomalous Vengeance
+Anomalous Venom Gyre
+Anomalous Vigilant Strike
+Anomalous Viper Strike
+Anomalous Vitality
+Anomalous Void Sphere
+Anomalous Volatile Dead
+Anomalous Voltaxic Burst
+Anomalous Vortex
+Anomalous Vulnerability
+Anomalous War Banner
+Anomalous Warlord's Mark
+Anomalous Wave of Conviction
+Anomalous Whirling Blades
+Anomalous Wild Strike
+Anomalous Winter Orb
+Anomalous Wintertide Brand
+Anomalous Wither
+Anomalous Withering Step
+Anomalous Wrath
+Anomalous Zealotry
+Anomalous Added Chaos Damage Support
+Anomalous Added Cold Damage Support
+Anomalous Added Fire Damage Support
+Anomalous Added Lightning Damage Support
+Anomalous Additional Accuracy Support
+Anomalous Advanced Traps Support
+Anomalous Ancestral Call Support
+Anomalous Arcane Surge Support
+Anomalous Archmage Support
+Anomalous Arrogance Support
+Anomalous Arrow Nova Support
+Anomalous Awakened Added Chaos Damage Support
+Anomalous Awakened Added Cold Damage Support
+Anomalous Awakened Added Fire Damage Support
+Anomalous Awakened Added Lightning Damage Support
+Anomalous Awakened Ancestral Call Support
+Anomalous Awakened Arrow Nova Support
+Anomalous Awakened Blasphemy Support
+Anomalous Awakened Cast On Critical Strike Support
+Anomalous Awakened Chain Support
+Anomalous Awakened Deadly Ailments Support
+Anomalous Awakened Fork Support
+Anomalous Awakened Generosity Support
+Anomalous Awakened Increased Area Of Effect Support
+Anomalous Awakened Multistrike Support
+Anomalous Awakened Swift Affliction Support
+Anomalous Awakened Unbound Ailments Support
+Anomalous Awakened Unleash Support
+Anomalous Ballista Totem Support
+Anomalous Barrage Support
+Anomalous Behead Support
+Anomalous Blasphemy Support
+Anomalous Blastchain Mine Support
+Anomalous Blind Support
+Anomalous Block Chance Reduction Support
+Anomalous Bloodlust Support
+Anomalous Bloodthirst Support
+Anomalous Bonechill Support
+Anomalous Brutality Support
+Anomalous Burning Damage Support
+Anomalous Cast On Critical Strike Support
+Anomalous Cast on Death Support
+Anomalous Cast on Melee Kill Support
+Anomalous Cast when Damage Taken Support
+Anomalous Cast when Stunned Support
+Anomalous Cast while Channelling Support
+Anomalous Chain Support
+Anomalous Chance to Bleed Support
+Anomalous Chance to Flee Support
+Anomalous Chance to Poison Support
+Anomalous Charged Mines Support
+Anomalous Charged Traps Support
+Anomalous Close Combat Support
+Anomalous Cluster Traps Support
+Anomalous Cold Penetration Support
+Anomalous Cold to Fire Support
+Anomalous Combustion Support
+Anomalous Concentrated Effect Support
+Anomalous Controlled Destruction Support
+Anomalous Critical Strike Affliction Support
+Anomalous Cruelty Support
+Anomalous Culling Strike Support
+Anomalous Damage on Full Life Support
+Anomalous Deadly Ailments Support
+Anomalous Decay Support
+Anomalous Divine Blessing Support
+Anomalous Earthbreaker Support
+Anomalous Efficacy Support
+Anomalous Elemental Army Support
+Anomalous Elemental Focus Support
+Anomalous Elemental Penetration Support
+Anomalous Elemental Proliferation Support
+Anomalous Empower Support
+Anomalous Endurance Charge on Melee Stun Support
+Anomalous Energy Leech Support
+Anomalous Enhance Support
+Anomalous Enlighten Support
+Anomalous Eternal Blessing Support
+Anomalous Faster Casting Support
+Anomalous Feeding Frenzy Support
+Anomalous Fire Penetration Support
+Anomalous Fist of War Support
+Anomalous Focused Ballista Support
+Anomalous Fork Support
+Anomalous Fortify Support
+Anomalous Generosity Support
+Anomalous Greater Volley Support
+Anomalous Hextouch Support
+Anomalous High-Impact Mine Support
+Anomalous Hypothermia Support
+Anomalous Ice Bite Support
+Anomalous Ignite Proliferation Support
+Anomalous Immolate Support
+Anomalous Impale Support
+Anomalous Impending Doom Support
+Anomalous Increased Area of Effect Support
+Anomalous Increased Critical Damage Support
+Anomalous Increased Critical Strikes Support
+Anomalous Increased Duration Support
+Anomalous Infernal Legion Support
+Anomalous Infused Channelling Support
+Anomalous Innervate Support
+Anomalous Inspiration Support
+Anomalous Intensify Support
+Anomalous Iron Grip Support
+Anomalous Iron Will Support
+Anomalous Item Quantity Support
+Anomalous Item Rarity Support
+Anomalous Knockback Support
+Anomalous Less Duration Support
+Anomalous Life Gain on Hit Support
+Anomalous Life Leech Support
+Anomalous Lifetap Support
+Anomalous Lightning Penetration Support
+Anomalous Maim Support
+Anomalous Mana Leech Support
+Anomalous Mark On Hit Support
+Anomalous Meat Shield Support
+Anomalous Melee Physical Damage Support
+Anomalous Melee Splash Support
+Anomalous Minefield Support
+Anomalous Minion Damage Support
+Anomalous Minion Life Support
+Anomalous Minion Speed Support
+Anomalous Mirage Archer Support
+Anomalous Multiple Totems Support
+Anomalous Multiple Traps Support
+Anomalous Multistrike Support
+Anomalous Nightblade Support
+Anomalous Onslaught Support
+Anomalous Physical to Lightning Support
+Anomalous Pierce Support
+Anomalous Pinpoint Support
+Anomalous Point Blank Support
+Anomalous Power Charge On Critical Support
+Anomalous Predator Support
+Anomalous Pulverise Support
+Anomalous Rage Support
+Anomalous Ruthless Support
+Anomalous Second Wind Support
+Anomalous Shockwave Support
+Anomalous Stun Support
+Anomalous Summon Phantasm Support
+Anomalous Swift Affliction Support
+Anomalous Swift Assembly Support
+Anomalous Swiftbrand Support
+Anomalous Trap and Mine Damage Support
+Anomalous Trap Support
+Anomalous Trinity Support
+Anomalous Unbound Ailments Support
+Anomalous Unleash Support
+Anomalous Urgent Orders Support
+Anomalous Vile Toxins Support
+Anomalous Void Manipulation Support
+Anomalous Volley Support
+Anomalous Withering Touch Support
+Divergent Ambush
+Divergent Ancestral Cry
+Divergent Ancestral Protector
+Divergent Ancestral Warchief
+Divergent Anger
+Divergent Animate Guardian
+Divergent Animate Weapon
+Divergent Arc
+Divergent Arcane Cloak
+Divergent Arcanist Brand
+Divergent Arctic Armour
+Divergent Armageddon Brand
+Divergent Artillery Ballista
+Divergent Assassin's Mark
+Divergent Ball Lightning
+Divergent Bane
+Divergent Barrage
+Divergent Battlemage's Cry
+Divergent Bear Trap
+Divergent Berserk
+Divergent Blade Blast
+Divergent Blade Flurry
+Divergent Blade Trap
+Divergent Blade Vortex
+Divergent Bladefall
+Divergent Bladestorm
+Divergent Blast Rain
+Divergent Blazing Salvo
+Divergent Blight
+Divergent Blink Arrow
+Divergent Blood and Sand
+Divergent Blood Rage
+Divergent Bodyswap
+Divergent Bone Offering
+Divergent Boneshatter
+Divergent Brand Recall
+Divergent Burning Arrow
+Divergent Caustic Arrow
+Divergent Chain Hook
+Divergent Charged Dash
+Divergent Clarity
+Divergent Cleave
+Divergent Cobra Lash
+Divergent Cold Snap
+Divergent Conductivity
+Divergent Consecrated Path
+Divergent Contagion
+Divergent Conversion Trap
+Divergent Convocation
+Divergent Corrupting Fever
+Divergent Crackling Lance
+Divergent Creeping Frost
+Divergent Cremation
+Divergent Cyclone
+Divergent Dark Pact
+Divergent Dash
+Divergent Decoy Totem
+Divergent Defiance Banner
+Divergent Desecrate
+Divergent Despair
+Divergent Destructive Link
+Divergent Determination
+Divergent Detonate Dead
+Divergent Detonate Mines
+Divergent Devouring Totem
+Divergent Discharge
+Divergent Discipline
+Divergent Divine Ire
+Divergent Dominating Blow
+Divergent Double Strike
+Divergent Dread Banner
+Divergent Dual Strike
+Divergent Earthquake
+Divergent Earthshatter
+Divergent Elemental Hit
+Divergent Elemental Weakness
+Divergent Enduring Cry
+Divergent Energy Blade
+Divergent Enfeeble
+Divergent Ensnaring Arrow
+Divergent Essence Drain
+Divergent Ethereal Knives
+Divergent Explosive Arrow
+Divergent Explosive Concoction
+Divergent Explosive Trap
+Divergent Exsanguinate
+Divergent Eye of Winter
+Divergent Fire Trap
+Divergent Fireball
+Divergent Firestorm
+Divergent Flame Dash
+Divergent Flame Link
+Divergent Flame Surge
+Divergent Flame Wall
+Divergent Flameblast
+Divergent Flamethrower Trap
+Divergent Flammability
+Divergent Flesh and Stone
+Divergent Flesh Offering
+Divergent Flicker Strike
+Divergent Forbidden Rite
+Divergent Freezing Pulse
+Divergent Frenzy
+Divergent Frost Blades
+Divergent Frost Bomb
+Divergent Frost Shield
+Divergent Frost Wall
+Divergent Frostbite
+Divergent Frostblink
+Divergent Frostbolt
+Divergent Galvanic Arrow
+Divergent General's Cry
+Divergent Glacial Cascade
+Divergent Glacial Hammer
+Divergent Grace
+Divergent Ground Slam
+Divergent Haste
+Divergent Hatred
+Divergent Heavy Strike
+Divergent Herald of Agony
+Divergent Herald of Ash
+Divergent Herald of Ice
+Divergent Herald of Purity
+Divergent Herald of Thunder
+Divergent Hexblast
+Divergent Holy Flame Totem
+Divergent Hydrosphere
+Divergent Ice Crash
+Divergent Ice Nova
+Divergent Ice Shot
+Divergent Ice Spear
+Divergent Ice Trap
+Divergent Icicle Mine
+Divergent Immortal Call
+Divergent Incinerate
+Divergent Infernal Blow
+Divergent Infernal Cry
+Divergent Intimidating Cry
+Divergent Intuitive Link
+Divergent Kinetic Blast
+Divergent Kinetic Bolt
+Divergent Lacerate
+Divergent Lancing Steel
+Divergent Leap Slam
+Divergent Lightning Arrow
+Divergent Lightning Spire Trap
+Divergent Lightning Strike
+Divergent Lightning Tendrils
+Divergent Lightning Trap
+Divergent Lightning Warp
+Divergent Malevolence
+Divergent Manabond
+Divergent Mirror Arrow
+Divergent Molten Shell
+Divergent Molten Strike
+Divergent Orb of Storms
+Divergent Penance Brand
+Divergent Perforate
+Divergent Pestilent Strike
+Divergent Petrified Blood
+Divergent Phase Run
+Divergent Plague Bearer
+Divergent Poacher's Mark
+Divergent Poisonous Concoction
+Divergent Portal
+Divergent Power Siphon
+Divergent Precision
+Divergent Pride
+Divergent Protective Link
+Divergent Puncture
+Divergent Punishment
+Divergent Purifying Flame
+Divergent Purity of Elements
+Divergent Purity of Fire
+Divergent Purity of Ice
+Divergent Purity of Lightning
+Divergent Pyroclast Mine
+Divergent Rage Vortex
+Divergent Rain of Arrows
+Divergent Raise Spectre
+Divergent Raise Zombie
+Divergent Rallying Cry
+Divergent Reap
+Divergent Reave
+Divergent Reckoning
+Divergent Rejuvenation Totem
+Divergent Righteous Fire
+Divergent Riposte
+Divergent Rolling Magma
+Divergent Scorching Ray
+Divergent Scourge Arrow
+Divergent Searing Bond
+Divergent Seismic Cry
+Divergent Seismic Trap
+Divergent Shattering Steel
+Divergent Shield Charge
+Divergent Shield Crush
+Divergent Shock Nova
+Divergent Shockwave Totem
+Divergent Shrapnel Ballista
+Divergent Siege Ballista
+Divergent Sigil of Power
+Divergent Siphoning Trap
+Divergent Smite
+Divergent Smoke Mine
+Divergent Sniper's Mark
+Divergent Soul Link
+Divergent Soulrend
+Divergent Spark
+Divergent Spectral Helix
+Divergent Spectral Shield Throw
+Divergent Spectral Throw
+Divergent Spirit Offering
+Divergent Split Arrow
+Divergent Splitting Steel
+Divergent Static Strike
+Divergent Steelskin
+Divergent Storm Brand
+Divergent Storm Burst
+Divergent Storm Call
+Divergent Storm Rain
+Divergent Stormbind
+Divergent Stormblast Mine
+Divergent Summon Carrion Golem
+Divergent Summon Chaos Golem
+Divergent Summon Flame Golem
+Divergent Summon Holy Relic
+Divergent Summon Ice Golem
+Divergent Summon Lightning Golem
+Divergent Summon Raging Spirit
+Divergent Summon Reaper
+Divergent Summon Skeletons
+Divergent Summon Skitterbots
+Divergent Summon Stone Golem
+Divergent Sunder
+Divergent Sweep
+Divergent Tectonic Slam
+Divergent Tempest Shield
+Divergent Temporal Chains
+Divergent Temporal Rift
+Divergent Tornado
+Divergent Tornado Shot
+Divergent Toxic Rain
+Divergent Unearth
+Divergent Vaal Ancestral Warchief
+Divergent Vaal Arc
+Divergent Vaal Blade Vortex
+Divergent Vaal Blight
+Divergent Vaal Breach
+Divergent Vaal Burning Arrow
+Divergent Vaal Clarity
+Divergent Vaal Cold Snap
+Divergent Vaal Cyclone
+Divergent Vaal Detonate Dead
+Divergent Vaal Discipline
+Divergent Vaal Double Strike
+Divergent Vaal Earthquake
+Divergent Vaal Fireball
+Divergent Vaal Flameblast
+Divergent Vaal Glacial Hammer
+Divergent Vaal Grace
+Divergent Vaal Ground Slam
+Divergent Vaal Haste
+Divergent Vaal Ice Nova
+Divergent Vaal Immortal Call
+Divergent Vaal Impurity of Fire
+Divergent Vaal Impurity of Ice
+Divergent Vaal Impurity of Lightning
+Divergent Vaal Lightning Strike
+Divergent Vaal Lightning Trap
+Divergent Vaal Lightning Warp
+Divergent Vaal Molten Shell
+Divergent Vaal Power Siphon
+Divergent Vaal Rain of Arrows
+Divergent Vaal Reave
+Divergent Vaal Righteous Fire
+Divergent Vaal Spark
+Divergent Vaal Spectral Throw
+Divergent Vaal Storm Call
+Divergent Vaal Summon Skeletons
+Divergent Vampiric Link
+Divergent Vengeance
+Divergent Venom Gyre
+Divergent Vigilant Strike
+Divergent Viper Strike
+Divergent Vitality
+Divergent Void Sphere
+Divergent Volatile Dead
+Divergent Voltaxic Burst
+Divergent Vortex
+Divergent Vulnerability
+Divergent War Banner
+Divergent Warlord's Mark
+Divergent Wave of Conviction
+Divergent Whirling Blades
+Divergent Wild Strike
+Divergent Winter Orb
+Divergent Wintertide Brand
+Divergent Wither
+Divergent Withering Step
+Divergent Wrath
+Divergent Zealotry
+Divergent Added Chaos Damage Support
+Divergent Added Cold Damage Support
+Divergent Added Fire Damage Support
+Divergent Added Lightning Damage Support
+Divergent Additional Accuracy Support
+Divergent Advanced Traps Support
+Divergent Ancestral Call Support
+Divergent Arcane Surge Support
+Divergent Archmage Support
+Divergent Arrogance Support
+Divergent Arrow Nova Support
+Divergent Awakened Added Chaos Damage Support
+Divergent Awakened Added Cold Damage Support
+Divergent Awakened Added Fire Damage Support
+Divergent Awakened Added Lightning Damage Support
+Divergent Awakened Ancestral Call Support
+Divergent Awakened Arrow Nova Support
+Divergent Awakened Blasphemy Support
+Divergent Awakened Cast On Critical Strike Support
+Divergent Awakened Chain Support
+Divergent Awakened Deadly Ailments Support
+Divergent Awakened Fork Support
+Divergent Awakened Generosity Support
+Divergent Awakened Increased Area Of Effect Support
+Divergent Awakened Multistrike Support
+Divergent Awakened Swift Affliction Support
+Divergent Awakened Unbound Ailments Support
+Divergent Awakened Unleash Support
+Divergent Ballista Totem Support
+Divergent Barrage Support
+Divergent Behead Support
+Divergent Blasphemy Support
+Divergent Blastchain Mine Support
+Divergent Blind Support
+Divergent Block Chance Reduction Support
+Divergent Bloodlust Support
+Divergent Bloodthirst Support
+Divergent Bonechill Support
+Divergent Brutality Support
+Divergent Burning Damage Support
+Divergent Cast On Critical Strike Support
+Divergent Cast on Death Support
+Divergent Cast on Melee Kill Support
+Divergent Cast when Damage Taken Support
+Divergent Cast when Stunned Support
+Divergent Cast while Channelling Support
+Divergent Chain Support
+Divergent Chance to Bleed Support
+Divergent Chance to Flee Support
+Divergent Chance to Poison Support
+Divergent Charged Mines Support
+Divergent Charged Traps Support
+Divergent Close Combat Support
+Divergent Cluster Traps Support
+Divergent Cold Penetration Support
+Divergent Cold to Fire Support
+Divergent Combustion Support
+Divergent Concentrated Effect Support
+Divergent Controlled Destruction Support
+Divergent Critical Strike Affliction Support
+Divergent Cruelty Support
+Divergent Culling Strike Support
+Divergent Damage on Full Life Support
+Divergent Deadly Ailments Support
+Divergent Decay Support
+Divergent Divine Blessing Support
+Divergent Earthbreaker Support
+Divergent Efficacy Support
+Divergent Elemental Army Support
+Divergent Elemental Focus Support
+Divergent Elemental Penetration Support
+Divergent Elemental Proliferation Support
+Divergent Empower Support
+Divergent Endurance Charge on Melee Stun Support
+Divergent Energy Leech Support
+Divergent Enhance Support
+Divergent Enlighten Support
+Divergent Eternal Blessing Support
+Divergent Faster Casting Support
+Divergent Feeding Frenzy Support
+Divergent Fire Penetration Support
+Divergent Fist of War Support
+Divergent Focused Ballista Support
+Divergent Fork Support
+Divergent Fortify Support
+Divergent Generosity Support
+Divergent Greater Volley Support
+Divergent Hextouch Support
+Divergent High-Impact Mine Support
+Divergent Hypothermia Support
+Divergent Ice Bite Support
+Divergent Ignite Proliferation Support
+Divergent Immolate Support
+Divergent Impale Support
+Divergent Impending Doom Support
+Divergent Increased Area of Effect Support
+Divergent Increased Critical Damage Support
+Divergent Increased Critical Strikes Support
+Divergent Increased Duration Support
+Divergent Infernal Legion Support
+Divergent Infused Channelling Support
+Divergent Innervate Support
+Divergent Inspiration Support
+Divergent Intensify Support
+Divergent Iron Grip Support
+Divergent Iron Will Support
+Divergent Item Quantity Support
+Divergent Item Rarity Support
+Divergent Knockback Support
+Divergent Less Duration Support
+Divergent Life Gain on Hit Support
+Divergent Life Leech Support
+Divergent Lifetap Support
+Divergent Lightning Penetration Support
+Divergent Maim Support
+Divergent Mana Leech Support
+Divergent Mark On Hit Support
+Divergent Meat Shield Support
+Divergent Melee Physical Damage Support
+Divergent Melee Splash Support
+Divergent Minefield Support
+Divergent Minion Damage Support
+Divergent Minion Life Support
+Divergent Minion Speed Support
+Divergent Mirage Archer Support
+Divergent Multiple Totems Support
+Divergent Multiple Traps Support
+Divergent Multistrike Support
+Divergent Nightblade Support
+Divergent Onslaught Support
+Divergent Physical to Lightning Support
+Divergent Pierce Support
+Divergent Pinpoint Support
+Divergent Point Blank Support
+Divergent Power Charge On Critical Support
+Divergent Predator Support
+Divergent Pulverise Support
+Divergent Rage Support
+Divergent Ruthless Support
+Divergent Second Wind Support
+Divergent Shockwave Support
+Divergent Stun Support
+Divergent Summon Phantasm Support
+Divergent Swift Affliction Support
+Divergent Swift Assembly Support
+Divergent Swiftbrand Support
+Divergent Trap and Mine Damage Support
+Divergent Trap Support
+Divergent Trinity Support
+Divergent Unbound Ailments Support
+Divergent Unleash Support
+Divergent Urgent Orders Support
+Divergent Vile Toxins Support
+Divergent Void Manipulation Support
+Divergent Volley Support
+Divergent Withering Touch Support
+Phantasmal Ambush
+Phantasmal Ancestral Cry
+Phantasmal Ancestral Protector
+Phantasmal Ancestral Warchief
+Phantasmal Anger
+Phantasmal Animate Guardian
+Phantasmal Animate Weapon
+Phantasmal Arc
+Phantasmal Arcane Cloak
+Phantasmal Arcanist Brand
+Phantasmal Arctic Armour
+Phantasmal Armageddon Brand
+Phantasmal Artillery Ballista
+Phantasmal Assassin's Mark
+Phantasmal Ball Lightning
+Phantasmal Bane
+Phantasmal Barrage
+Phantasmal Battlemage's Cry
+Phantasmal Bear Trap
+Phantasmal Berserk
+Phantasmal Blade Blast
+Phantasmal Blade Flurry
+Phantasmal Blade Trap
+Phantasmal Blade Vortex
+Phantasmal Bladefall
+Phantasmal Bladestorm
+Phantasmal Blast Rain
+Phantasmal Blazing Salvo
+Phantasmal Blight
+Phantasmal Blink Arrow
+Phantasmal Blood and Sand
+Phantasmal Blood Rage
+Phantasmal Bodyswap
+Phantasmal Bone Offering
+Phantasmal Boneshatter
+Phantasmal Brand Recall
+Phantasmal Burning Arrow
+Phantasmal Caustic Arrow
+Phantasmal Chain Hook
+Phantasmal Charged Dash
+Phantasmal Clarity
+Phantasmal Cleave
+Phantasmal Cobra Lash
+Phantasmal Cold Snap
+Phantasmal Conductivity
+Phantasmal Consecrated Path
+Phantasmal Contagion
+Phantasmal Conversion Trap
+Phantasmal Convocation
+Phantasmal Corrupting Fever
+Phantasmal Crackling Lance
+Phantasmal Creeping Frost
+Phantasmal Cremation
+Phantasmal Cyclone
+Phantasmal Dark Pact
+Phantasmal Dash
+Phantasmal Decoy Totem
+Phantasmal Defiance Banner
+Phantasmal Desecrate
+Phantasmal Despair
+Phantasmal Destructive Link
+Phantasmal Determination
+Phantasmal Detonate Dead
+Phantasmal Detonate Mines
+Phantasmal Devouring Totem
+Phantasmal Discharge
+Phantasmal Discipline
+Phantasmal Divine Ire
+Phantasmal Dominating Blow
+Phantasmal Double Strike
+Phantasmal Dread Banner
+Phantasmal Dual Strike
+Phantasmal Earthquake
+Phantasmal Earthshatter
+Phantasmal Elemental Hit
+Phantasmal Elemental Weakness
+Phantasmal Enduring Cry
+Phantasmal Energy Blade
+Phantasmal Enfeeble
+Phantasmal Ensnaring Arrow
+Phantasmal Essence Drain
+Phantasmal Ethereal Knives
+Phantasmal Explosive Arrow
+Phantasmal Explosive Concoction
+Phantasmal Explosive Trap
+Phantasmal Exsanguinate
+Phantasmal Eye of Winter
+Phantasmal Fire Trap
+Phantasmal Fireball
+Phantasmal Firestorm
+Phantasmal Flame Dash
+Phantasmal Flame Link
+Phantasmal Flame Surge
+Phantasmal Flame Wall
+Phantasmal Flameblast
+Phantasmal Flamethrower Trap
+Phantasmal Flammability
+Phantasmal Flesh and Stone
+Phantasmal Flesh Offering
+Phantasmal Flicker Strike
+Phantasmal Forbidden Rite
+Phantasmal Freezing Pulse
+Phantasmal Frenzy
+Phantasmal Frost Blades
+Phantasmal Frost Bomb
+Phantasmal Frost Shield
+Phantasmal Frost Wall
+Phantasmal Frostbite
+Phantasmal Frostblink
+Phantasmal Frostbolt
+Phantasmal Galvanic Arrow
+Phantasmal General's Cry
+Phantasmal Glacial Cascade
+Phantasmal Glacial Hammer
+Phantasmal Grace
+Phantasmal Ground Slam
+Phantasmal Haste
+Phantasmal Hatred
+Phantasmal Heavy Strike
+Phantasmal Herald of Agony
+Phantasmal Herald of Ash
+Phantasmal Herald of Ice
+Phantasmal Herald of Purity
+Phantasmal Herald of Thunder
+Phantasmal Hexblast
+Phantasmal Holy Flame Totem
+Phantasmal Hydrosphere
+Phantasmal Ice Crash
+Phantasmal Ice Nova
+Phantasmal Ice Shot
+Phantasmal Ice Spear
+Phantasmal Ice Trap
+Phantasmal Icicle Mine
+Phantasmal Immortal Call
+Phantasmal Incinerate
+Phantasmal Infernal Blow
+Phantasmal Infernal Cry
+Phantasmal Intimidating Cry
+Phantasmal Intuitive Link
+Phantasmal Kinetic Blast
+Phantasmal Kinetic Bolt
+Phantasmal Lacerate
+Phantasmal Lancing Steel
+Phantasmal Leap Slam
+Phantasmal Lightning Arrow
+Phantasmal Lightning Spire Trap
+Phantasmal Lightning Strike
+Phantasmal Lightning Tendrils
+Phantasmal Lightning Trap
+Phantasmal Lightning Warp
+Phantasmal Malevolence
+Phantasmal Manabond
+Phantasmal Mirror Arrow
+Phantasmal Molten Shell
+Phantasmal Molten Strike
+Phantasmal Orb of Storms
+Phantasmal Penance Brand
+Phantasmal Perforate
+Phantasmal Pestilent Strike
+Phantasmal Petrified Blood
+Phantasmal Phase Run
+Phantasmal Plague Bearer
+Phantasmal Poacher's Mark
+Phantasmal Poisonous Concoction
+Phantasmal Portal
+Phantasmal Power Siphon
+Phantasmal Precision
+Phantasmal Pride
+Phantasmal Protective Link
+Phantasmal Puncture
+Phantasmal Punishment
+Phantasmal Purifying Flame
+Phantasmal Purity of Elements
+Phantasmal Purity of Fire
+Phantasmal Purity of Ice
+Phantasmal Purity of Lightning
+Phantasmal Pyroclast Mine
+Phantasmal Rage Vortex
+Phantasmal Rain of Arrows
+Phantasmal Raise Spectre
+Phantasmal Raise Zombie
+Phantasmal Rallying Cry
+Phantasmal Reap
+Phantasmal Reave
+Phantasmal Reckoning
+Phantasmal Rejuvenation Totem
+Phantasmal Righteous Fire
+Phantasmal Riposte
+Phantasmal Rolling Magma
+Phantasmal Scorching Ray
+Phantasmal Scourge Arrow
+Phantasmal Searing Bond
+Phantasmal Seismic Cry
+Phantasmal Seismic Trap
+Phantasmal Shattering Steel
+Phantasmal Shield Charge
+Phantasmal Shield Crush
+Phantasmal Shock Nova
+Phantasmal Shockwave Totem
+Phantasmal Shrapnel Ballista
+Phantasmal Siege Ballista
+Phantasmal Sigil of Power
+Phantasmal Siphoning Trap
+Phantasmal Smite
+Phantasmal Smoke Mine
+Phantasmal Sniper's Mark
+Phantasmal Soul Link
+Phantasmal Soulrend
+Phantasmal Spark
+Phantasmal Spectral Helix
+Phantasmal Spectral Shield Throw
+Phantasmal Spectral Throw
+Phantasmal Spirit Offering
+Phantasmal Split Arrow
+Phantasmal Splitting Steel
+Phantasmal Static Strike
+Phantasmal Steelskin
+Phantasmal Storm Brand
+Phantasmal Storm Burst
+Phantasmal Storm Call
+Phantasmal Storm Rain
+Phantasmal Stormbind
+Phantasmal Stormblast Mine
+Phantasmal Summon Carrion Golem
+Phantasmal Summon Chaos Golem
+Phantasmal Summon Flame Golem
+Phantasmal Summon Holy Relic
+Phantasmal Summon Ice Golem
+Phantasmal Summon Lightning Golem
+Phantasmal Summon Raging Spirit
+Phantasmal Summon Reaper
+Phantasmal Summon Skeletons
+Phantasmal Summon Skitterbots
+Phantasmal Summon Stone Golem
+Phantasmal Sunder
+Phantasmal Sweep
+Phantasmal Tectonic Slam
+Phantasmal Tempest Shield
+Phantasmal Temporal Chains
+Phantasmal Temporal Rift
+Phantasmal Tornado
+Phantasmal Tornado Shot
+Phantasmal Toxic Rain
+Phantasmal Unearth
+Phantasmal Vaal Ancestral Warchief
+Phantasmal Vaal Arc
+Phantasmal Vaal Blade Vortex
+Phantasmal Vaal Blight
+Phantasmal Vaal Breach
+Phantasmal Vaal Burning Arrow
+Phantasmal Vaal Clarity
+Phantasmal Vaal Cold Snap
+Phantasmal Vaal Cyclone
+Phantasmal Vaal Detonate Dead
+Phantasmal Vaal Discipline
+Phantasmal Vaal Double Strike
+Phantasmal Vaal Earthquake
+Phantasmal Vaal Fireball
+Phantasmal Vaal Flameblast
+Phantasmal Vaal Glacial Hammer
+Phantasmal Vaal Grace
+Phantasmal Vaal Ground Slam
+Phantasmal Vaal Haste
+Phantasmal Vaal Ice Nova
+Phantasmal Vaal Immortal Call
+Phantasmal Vaal Impurity of Fire
+Phantasmal Vaal Impurity of Ice
+Phantasmal Vaal Impurity of Lightning
+Phantasmal Vaal Lightning Strike
+Phantasmal Vaal Lightning Trap
+Phantasmal Vaal Lightning Warp
+Phantasmal Vaal Molten Shell
+Phantasmal Vaal Power Siphon
+Phantasmal Vaal Rain of Arrows
+Phantasmal Vaal Reave
+Phantasmal Vaal Righteous Fire
+Phantasmal Vaal Spark
+Phantasmal Vaal Spectral Throw
+Phantasmal Vaal Storm Call
+Phantasmal Vaal Summon Skeletons
+Phantasmal Vampiric Link
+Phantasmal Vengeance
+Phantasmal Venom Gyre
+Phantasmal Vigilant Strike
+Phantasmal Viper Strike
+Phantasmal Vitality
+Phantasmal Void Sphere
+Phantasmal Volatile Dead
+Phantasmal Voltaxic Burst
+Phantasmal Vortex
+Phantasmal Vulnerability
+Phantasmal War Banner
+Phantasmal Warlord's Mark
+Phantasmal Wave of Conviction
+Phantasmal Whirling Blades
+Phantasmal Wild Strike
+Phantasmal Winter Orb
+Phantasmal Wintertide Brand
+Phantasmal Wither
+Phantasmal Withering Step
+Phantasmal Wrath
+Phantasmal Zealotry
+Phantasmal Added Chaos Damage Support
+Phantasmal Added Cold Damage Support
+Phantasmal Added Fire Damage Support
+Phantasmal Added Lightning Damage Support
+Phantasmal Additional Accuracy Support
+Phantasmal Advanced Traps Support
+Phantasmal Ancestral Call Support
+Phantasmal Arcane Surge Support
+Phantasmal Archmage Support
+Phantasmal Arrogance Support
+Phantasmal Arrow Nova Support
+Phantasmal Awakened Added Chaos Damage Support
+Phantasmal Awakened Added Cold Damage Support
+Phantasmal Awakened Added Fire Damage Support
+Phantasmal Awakened Added Lightning Damage Support
+Phantasmal Awakened Ancestral Call Support
+Phantasmal Awakened Arrow Nova Support
+Phantasmal Awakened Blasphemy Support
+Phantasmal Awakened Cast On Critical Strike Support
+Phantasmal Awakened Chain Support
+Phantasmal Awakened Deadly Ailments Support
+Phantasmal Awakened Fork Support
+Phantasmal Awakened Generosity Support
+Phantasmal Awakened Increased Area Of Effect Support
+Phantasmal Awakened Multistrike Support
+Phantasmal Awakened Swift Affliction Support
+Phantasmal Awakened Unbound Ailments Support
+Phantasmal Awakened Unleash Support
+Phantasmal Ballista Totem Support
+Phantasmal Barrage Support
+Phantasmal Behead Support
+Phantasmal Blasphemy Support
+Phantasmal Blastchain Mine Support
+Phantasmal Blind Support
+Phantasmal Block Chance Reduction Support
+Phantasmal Bloodlust Support
+Phantasmal Bloodthirst Support
+Phantasmal Bonechill Support
+Phantasmal Brutality Support
+Phantasmal Burning Damage Support
+Phantasmal Cast On Critical Strike Support
+Phantasmal Cast on Death Support
+Phantasmal Cast on Melee Kill Support
+Phantasmal Cast when Damage Taken Support
+Phantasmal Cast when Stunned Support
+Phantasmal Cast while Channelling Support
+Phantasmal Chain Support
+Phantasmal Chance to Bleed Support
+Phantasmal Chance to Flee Support
+Phantasmal Chance to Poison Support
+Phantasmal Charged Mines Support
+Phantasmal Charged Traps Support
+Phantasmal Close Combat Support
+Phantasmal Cluster Traps Support
+Phantasmal Cold Penetration Support
+Phantasmal Cold to Fire Support
+Phantasmal Combustion Support
+Phantasmal Concentrated Effect Support
+Phantasmal Controlled Destruction Support
+Phantasmal Critical Strike Affliction Support
+Phantasmal Cruelty Support
+Phantasmal Culling Strike Support
+Phantasmal Damage on Full Life Support
+Phantasmal Deadly Ailments Support
+Phantasmal Decay Support
+Phantasmal Divine Blessing Support
+Phantasmal Earthbreaker Support
+Phantasmal Efficacy Support
+Phantasmal Elemental Army Support
+Phantasmal Elemental Focus Support
+Phantasmal Elemental Penetration Support
+Phantasmal Elemental Proliferation Support
+Phantasmal Empower Support
+Phantasmal Endurance Charge on Melee Stun Support
+Phantasmal Energy Leech Support
+Phantasmal Enhance Support
+Phantasmal Enlighten Support
+Phantasmal Eternal Blessing Support
+Phantasmal Faster Casting Support
+Phantasmal Feeding Frenzy Support
+Phantasmal Fire Penetration Support
+Phantasmal Fist of War Support
+Phantasmal Focused Ballista Support
+Phantasmal Fork Support
+Phantasmal Fortify Support
+Phantasmal Generosity Support
+Phantasmal Greater Volley Support
+Phantasmal Hextouch Support
+Phantasmal High-Impact Mine Support
+Phantasmal Hypothermia Support
+Phantasmal Ice Bite Support
+Phantasmal Ignite Proliferation Support
+Phantasmal Immolate Support
+Phantasmal Impale Support
+Phantasmal Impending Doom Support
+Phantasmal Increased Area of Effect Support
+Phantasmal Increased Critical Damage Support
+Phantasmal Increased Critical Strikes Support
+Phantasmal Increased Duration Support
+Phantasmal Infernal Legion Support
+Phantasmal Infused Channelling Support
+Phantasmal Innervate Support
+Phantasmal Inspiration Support
+Phantasmal Intensify Support
+Phantasmal Iron Grip Support
+Phantasmal Iron Will Support
+Phantasmal Item Quantity Support
+Phantasmal Item Rarity Support
+Phantasmal Knockback Support
+Phantasmal Less Duration Support
+Phantasmal Life Gain on Hit Support
+Phantasmal Life Leech Support
+Phantasmal Lifetap Support
+Phantasmal Lightning Penetration Support
+Phantasmal Maim Support
+Phantasmal Mana Leech Support
+Phantasmal Mark On Hit Support
+Phantasmal Meat Shield Support
+Phantasmal Melee Physical Damage Support
+Phantasmal Melee Splash Support
+Phantasmal Minefield Support
+Phantasmal Minion Damage Support
+Phantasmal Minion Life Support
+Phantasmal Minion Speed Support
+Phantasmal Mirage Archer Support
+Phantasmal Multiple Totems Support
+Phantasmal Multiple Traps Support
+Phantasmal Multistrike Support
+Phantasmal Nightblade Support
+Phantasmal Onslaught Support
+Phantasmal Physical to Lightning Support
+Phantasmal Pierce Support
+Phantasmal Pinpoint Support
+Phantasmal Point Blank Support
+Phantasmal Power Charge On Critical Support
+Phantasmal Predator Support
+Phantasmal Pulverise Support
+Phantasmal Rage Support
+Phantasmal Ruthless Support
+Phantasmal Second Wind Support
+Phantasmal Shockwave Support
+Phantasmal Stun Support
+Phantasmal Summon Phantasm Support
+Phantasmal Swift Affliction Support
+Phantasmal Swift Assembly Support
+Phantasmal Swiftbrand Support
+Phantasmal Trap and Mine Damage Support
+Phantasmal Trap Support
+Phantasmal Trinity Support
+Phantasmal Unbound Ailments Support
+Phantasmal Unleash Support
+Phantasmal Urgent Orders Support
+Phantasmal Vile Toxins Support
+Phantasmal Void Manipulation Support
+Phantasmal Volley Support
+Phantasmal Withering Touch Support
+Anomalous Alchemist's Mark
+Phantasmal Alchemist's Mark
+Divergent Alchemist's Mark
+Anomalous Galvanic Field
+Phantasmal Galvanic Field
+Divergent Galvanic Field
+Divergent Lightning Conduit
+Anomalous Lightning Conduit
+Phantasmal Lightning Conduit
+Anomalous Overcharge Support
+Divergent Overcharge Support
+Phantasmal Overcharge Support
