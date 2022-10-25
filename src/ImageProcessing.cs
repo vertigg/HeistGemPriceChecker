@@ -1,9 +1,7 @@
-﻿using System;
-using System.Drawing;
+﻿using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
-using System.Linq;
-using System.Runtime.InteropServices;
+using System.Windows.Forms;
 using System.Windows.Media.Imaging;
 
 namespace HeistGemChecker.src
@@ -15,7 +13,8 @@ namespace HeistGemChecker.src
     {
         public static Bitmap CaptureScreenshot()
         {
-            var bitmap = new Bitmap(1920, 1080, PixelFormat.Format24bppRgb);
+            var activeScreen = Screen.PrimaryScreen;
+            var bitmap = new Bitmap(activeScreen.Bounds.Width, activeScreen.Bounds.Height, PixelFormat.Format24bppRgb);
             using (var g = Graphics.FromImage(bitmap))
             {
                 g.CopyFromScreen(0, 0, 0, 0,

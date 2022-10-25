@@ -7,15 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Markup;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using NHotkey;
 using NHotkey.Wpf;
 using HeistGemChecker.OCR;
@@ -39,7 +31,6 @@ namespace HeistGemChecker
 
         public MainWindow()
         {
-            //HotkeyManager.Current.AddOrReplace("Capture", new KeyGesture(Key.F3), PriceCheck);
             HotkeyManager.Current.AddOrReplace("DebugOCR", new KeyGesture(Key.F3, ModifierKeys.Shift), ShowCommand);
             InitializeComponent();
             InitializeSystemTrayIcon();
@@ -111,7 +102,7 @@ namespace HeistGemChecker
             }
             catch(Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                MessageBox.Show(ex.ToString());
             }
             finally
             {
